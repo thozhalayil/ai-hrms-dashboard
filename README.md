@@ -97,7 +97,7 @@ cd ai-hrms-dashboard
 
 **Jerome** — BCom Accountancy Student, NM College Mumbai  
 NISM-XV (Research Analyst) | NISM-VIII (Equity Derivatives)  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) • [GitHub](https://github.com/thozhalayil)
+[LinkedIn](https://www.linkedin.com/in/jerom-thozhalayil/) • [GitHub](https://github.com/thozhalayil)
 
 ---
 
